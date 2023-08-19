@@ -2,3 +2,11 @@ h1,
 h2 {
   text-align: center;
 }
+
+h1 {
+  font-family: "Bitter", serif;
+}
+
+h2 {
+  font-family: "DM Sans", sans-serif;
+}
