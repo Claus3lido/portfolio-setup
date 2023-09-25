@@ -10,3 +10,9 @@ h2 {
   background: #f9f7fe;
   text-align: center;
 }
+
+.hero p {
+  font-family: "Bitter", serif;
+  font-size: 36px;
+  font-weight: bold;
+}
