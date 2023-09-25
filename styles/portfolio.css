@@ -5,3 +5,8 @@ h1 {
 h2 {
   font-family: "DM Sans", sans-serif;
 }
+
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+}
